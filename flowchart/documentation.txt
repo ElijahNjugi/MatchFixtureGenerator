@@ -1,0 +1,10 @@
+Start
+Load team data from the csv file
+Generate match fixtures(Home and away)
+If there's more than one team 
+	create fixture schedule
+		loop until each fixture schedule has been determined(weekends for leg 1 and leg 2)
+if not 
+	end
+ else print output.
+Repeat for new team data
